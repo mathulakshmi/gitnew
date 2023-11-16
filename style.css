@@ -37,7 +37,7 @@
 .nav ul li a {
     color: white;
     padding: 15px 10px;
-    transition: 0.6s; /* Corrected the transition property */
+    transition: 0.6s; 
 }
 
 .nav ul li a:hover {
@@ -150,25 +150,7 @@ body {
     padding: 15px 10px;
     transition: 0.6s; 
 }
-/* 
-Additional styles for better responsiveness
-     @media screen and (max-width: 600px) {
-    .home-icons h2 {
-    padding-left: 500px;
-    display:flex-start; */
-    /* }
 
-    .home-icons ul {
-        float: none;
-        margin-right: 0;
-        text-align: center;
-    }
-
-    .home-icons ul li {
-        display: block;
-        margin: 10px 0;
-    } */
-}
 
 
 
